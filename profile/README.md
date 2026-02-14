@@ -6,8 +6,6 @@
 
 The Dream Software Foundation (DSF) stewards [Dream](https://dreamlang.dev) -- a programming language designed to unify formal verification, automatic parallelism, content-addressable code, and AI-native tooling into a single coherent system.
 
-Everything the DSF produces is open source under the Apache 2.0 + MIT dual license.
-
 ## What is Dream?
 
 Dream occupies a space that no existing language fills. Most languages force a choice: safety or speed, verification or usability, parallelism or simplicity. Dream's thesis is that these are false dichotomies created by historical accident, not fundamental tradeoffs.
